@@ -15,15 +15,22 @@ Para ejecutar el archivo de forma paralela se compila el archivo "omp_sumafibopa
 Al ejecutar los archivos mencionados, se obtuvieron los siguientes resultados de suma y tiempo:
 
 - Con n = 15:
+  
   - Forma secuencial:
+    
   ![](./resultadofibo15.png)
+
   - Forma Paralela:
+    
   ![](./resultadompfibo15.png)
 
 - Con n = 150000:
   - Forma secuencial:
+    
   ![](./resultadofibo150.png)
+  
   - Forma Paralela:
+    
   ![](./resultadoompfibo150.png)
 
 ## Conclusiones
