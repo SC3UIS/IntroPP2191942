@@ -1,8 +1,8 @@
 # Algoritmos genéticos paralelos
 ## Integrantes:
-- Maximiliano Correa
-- Alfredo Nieto
-- Brayan Rojas
+- Maximiliano Correa - 2161594
+- Alfredo Nieto - 2200137
+- Brayan Rojas - 2191942
 
 ## Contenido
 - `original.cpp`: Código fuente de la solución secuencial en C++.
