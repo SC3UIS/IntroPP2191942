@@ -195,11 +195,11 @@ Para ejecutar el programa paralelizado se utiliza el comando:
 Para ambas pruebas se utilizó el mismo gen, un gen bastante amplio en concreto se utilizó la cadena "I love GeeksforGeeks " 27 veces, es decir, 567 caracteres.
 
 Los resultados obtenidos por el programa del código original fueron los siguientes:
-![image](images/resultadooriginal.png)
+![image](images/resultadooriginal.jpeg)
 Se puede ver que tardó 2177446 milisegundos e hizo un total de 779591 generaciones.
 
 En cambio, los resultados dados por el programa del código paralelizado son los siguientes:
-![image](images/resultadoparalelizado.png)
+![image](images/resultadoparalelizado.jpeg)
 Se puede ver que tardó 1299615 milisegundos e hizo un total de 627546 generaciones.
 
 ## Conclusiones
