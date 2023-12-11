@@ -1,4 +1,6 @@
 # Algoritmos genéticos paralelos
+## Link del vídeo: https://youtu.be/jHZrlqx6Jpw <br>
+
 ## Integrantes:
 - Maximiliano Correa - 2161594
 - Alfredo Nieto - 2200137
